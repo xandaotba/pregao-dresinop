@@ -10,7 +10,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     </head>
     <body>
         <?php
-       echo "Teste";
+       echo "Teste teste"
+        . "";
         ?>
     </body>
 </html>
