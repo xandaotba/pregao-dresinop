@@ -1,0 +1,20 @@
+##INICIAR O GIT##
+git init
+
+##VERIFICAR ALTERAÇÕES##
+git status
+
+##ADICIONAR OS ARQUIVOS PARA ENVIAR##
+git add .
+
+##SALVAR ARQUIVOS E ESCREVER O QUE FOI MODIFICADO##
+git commit -m "Adicionar mensagem"
+
+## GUARDAR OS ARQUIVOS NO "MAIN" ## (opcional)
+git branch -M main
+
+##ESPECIFICAR QUAL REPOSITÓRIO SERÁ ARMAZENADO ##
+git remote add origin git@github.com:seuusuario/seurepositorio.git
+
+##ENVIAR ARQUIVOS PARA O REPOSITÓRIO##
+git push -u origin main
