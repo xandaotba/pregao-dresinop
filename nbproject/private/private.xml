@@ -5,6 +5,13 @@
         <group>
             <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/index.php</file>
             <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/header.php</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/css/estilo.css</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/classes/models/Escolas.php</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/classes/models/Fornecedores.php</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/classes/models/Municipios.php</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/classes/models/Produtos.php</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/classes/models/Certames.php</file>
+            <file>file:/C:/xampp/htdocs/Pregao_DRE_Sinop/config.php</file>
         </group>
     </open-files>
 </project-private>
