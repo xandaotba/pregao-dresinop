@@ -8,10 +8,10 @@
 
         
         function __construct($codigo = null, $nome = null, $unidade = null, $especificacoes = null) {
-            this->Codigo = $codigo;
-            this->Nome = $nome;
-            this->Unidade = $unidade;
-            this->Especificacoes = $especificacoes;
+            $this->Codigo = $codigo;
+            $this->Nome = $nome;
+            $this->Unidade = $unidade;
+            $this->Especificacoes = $especificacoes;
 
         }
         

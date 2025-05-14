@@ -6,8 +6,8 @@
 
         
         function __construct($codigo = null, $nome = null) {
-            this->Codigo = $codigo;
-            this->Nome = $nome;
+            $this->Codigo = $codigo;
+            $this->Nome = $nome;
 
         }
         
