@@ -1,0 +1,54 @@
+
+/* 
+    Created on : May 16, 2025, 2:33:54 PM
+    Author     : DRE-72
+*/
+
+
+footer {
+      background-color: #001524;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 10px 30px 1px;
+      color: #cecece;
+      font-size: 14px;
+    }
+    
+     .topo-footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px 30px;
+    }
+    
+    .sobre-rodape{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 1000px; 
+        text-align: justify;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .redes-sociais {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.redes-sociais a {
+  color: #ffff;
+  font-size: 24px;
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.redes-sociais a:hover {
+  color: #00a99d; /* Ou outra cor desejada ao passar o mouse */
+}
+
+    .direitos-site{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
